@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Entusiasta e apaixonado por tecnologia em geral, atualmente cursando 5°período de Sistemas de Informação <strong>Curioso no assunto de Desenvolvimento Web</strong>.<br>
+  Entusiasta e apaixonado por tecnologia em geral, atualmente cursando 5°período de Sistemas de Informação. <strong>Curioso no assunto de Desenvolvimento Web</strong>.<br>
   Atualmente estudando React e Php.
 </p>
 
