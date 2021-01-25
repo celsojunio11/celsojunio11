@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>PHP, HTML, CSS, JAVA SCRIPT, POO, MySql </strong>
+  🦄 Skills: <strong>PHP, HTML, CSS, JAVA SCRIPT, MySql </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Trello, Git, GitHub, Visual Studio Code</strong>
+  💼 Ferramentas: <strong> Git, GitHub, Visual Studio Code</strong>
 </p>
 
 <p align="left">
