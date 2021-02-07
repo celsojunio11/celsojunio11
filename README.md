@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox" />celsojunio11@gmail.com</a><br>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junio-003a55180/" />//<a href="www.linkedin.com/in/celso-junio-003a55180"></a></a><br>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junio-003a55180/" />//</a><br>
 
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!"/><a href="https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!"></a></a><br>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!"/>"https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!</a><br>
 
 </p> <br>
