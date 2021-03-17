@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBpDthvrVWxBDHNWDxMphhvwpGMjckNPmdDQzMlwNVPXZrFwRtmBrbbnPWPQzhRTrXlTqrV" alt="Gmail">
+  <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox" />celsojunio11@gmail.com</a><br>
 
   <a href="https://www.linkedin.com/in/celso-junio-003a55180/" target="_blank" alt="Linkedin">
