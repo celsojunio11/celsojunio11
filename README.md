@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox" />celsojunio11@gmail.com</a><br>
 
   <a href="https://www.linkedin.com/in/celso-junio-003a55180/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junio-003a55180/" /></a><br>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junio-003a55180/" target="_blank" /></a><br>
 
   <a href="https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!"/></a><br>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!" target="_blank" /></a><br>
 
 </p> <br>
