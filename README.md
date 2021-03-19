@@ -5,10 +5,13 @@
 
 🔭 Atualmente trabalho na área de Infraestrutura.
 
-💬 Contato:
-[![Linkedin:Celso Júnio](https://img.shields.io/badge/-Celso Júnio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junio-003a55180/)](https://www.linkedin.com/in/celso-junio-003a55180/)
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Celso Júnio](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-celsojunio11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celsojunio11@gmail.com)](mailto:celsojunio11@gmail.com)
 [![GitHub celsojunio11]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/celsojunio11)
+<a href="https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!" target="_blank" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!" /></a>
 
 ----
 
@@ -20,7 +23,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="GitHub"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GitHub"/></code>
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
