@@ -7,7 +7,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Celso Júnio](https://img.shields.io/badge/-CelsoJúnio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Celso Júnio](https://img.shields.io/badge/-CelsoJúnio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junio-003a55180/)](https://www.linkedin.com/in/celso-junio-003a55180/)
 [![Gmail Badge](https://img.shields.io/badge/-celsojunio11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celsojunio11@gmail.com)](mailto:celsojunio11@gmail.com)
 <a href="https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!" target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!" /></a>
