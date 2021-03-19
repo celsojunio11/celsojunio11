@@ -1,31 +1,27 @@
-### Hello Word! 👋
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+### Hello Word! 
+## 👋 Olá, meu nome é <strong>Celso Júnio Rodrigues!</strong>
 
-<p align="left"> 
-  Entusiasta e apaixonado por tecnologia em geral, atualmente cursando 5°período de Sistemas de Informação. <strong>Curioso no assunto de Desenvolvimento Web</strong>.<br>
-  Atualmente estudando React e Php.
-</p>
+> Entusiasta e apaixonado por tecnologia em geral, atualmente cursando 5°período de Sistemas de Informação. <strong>Curioso no assunto de Desenvolvimento Web</strong>.<br>
 
-<p align="left">
-  🦄 Skills: <strong>PHP, HTML, CSS, MySql </strong>
-</p>
+🔭 Atualmente trabalho na área de Infraestrutura.
 
-<p align="left">
-  💼 Ferramentas: <strong> Git, GitHub, Visual Studio Code</strong>
-</p>
+💬 Contato:
+[![Linkedin:Celso Júnio](https://img.shields.io/badge/-Celso Júnio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junio-003a55180/)](https://www.linkedin.com/in/celso-junio-003a55180/)
+[![Gmail Badge](https://img.shields.io/badge/-celsojunio11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celsojunio11@gmail.com)](mailto:celsojunio11@gmail.com)
+[![GitHub celsojunio11]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/celsojunio11)
 
-<p align="left">
-  💌 Contato: ⤵️
-</p>
+----
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox" />celsojunio11@gmail.com</a><br>
+## 🚀 Minhas Skills
 
-  <a href="https://www.linkedin.com/in/celso-junio-003a55180/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-junio-003a55180/"  /></a><br>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="GitHub"/></code>
+---
 
-  <a href="https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5534999365984&text=Ol%C3%A1%20Celso%20Junio!" /></a><br>
-
-</p> <br>
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=celsojunio11&show_icons=true)
