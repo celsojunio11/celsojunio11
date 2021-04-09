@@ -1,5 +1,5 @@
 ### Hello Word! 
-## 👋 Olá, meu nome é <strong>Celso Júnio Rodrigues!</strong>
+## 👋 Meu nome é <strong>Celso Júnio!</strong>
 
 > Entusiasta e apaixonado por tecnologia em geral, atualmente cursando 5°período de Sistemas de Informação. <strong>Curioso no assunto de Desenvolvimento Web</strong>.<br>
 
