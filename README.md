@@ -3,7 +3,7 @@
 
 > Entusiasta e apaixonado por tecnologia em geral, atualmente cursando 5°período de Sistemas de Informação. <strong>Curioso no assunto de Desenvolvimento Web</strong>.<br>
 
-🔭 Atualmente trabalho na área de Infraestrutura.
+🔭 Analista de Suporte/Infraestrutura | Obers
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
