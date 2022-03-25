@@ -1,9 +1,9 @@
 ### Hello Word! 
 ## 👋 Meu nome é <strong>Celso Júnio!</strong>
 
-> Entusiasta e apaixonado por tecnologia em geral, cursando 7°período de Sistemas de Informação. <strong>Curioso no assunto de Desenvolvimento Web, atualmente estudando ReactJS</strong>.<br>
+> Entusiasta e apaixonado por tecnologia em geral, cursando 7°período de Sistemas de Informação. <strong>Curioso nos assuntos de Desenvolvimento Web e DevOps</strong>.<br>
 
-🔭 Analista de Infraestrutura | Obers
+🔭 Infrastructure Analyst | Obers
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
