@@ -1,7 +1,7 @@
 ### Hello Word! 
 ## 👋 Meu nome é <strong>Celso Júnio!</strong>
 
-> Entusiasta e apaixonado por tecnologia em geral, cursando 7°período de Sistemas de Informação. <strong>Curioso nos assuntos de Desenvolvimento Web e DevOps</strong>.<br>
+> Entusiasta e apaixonado por tecnologia em geral, cursando o 7°período de Sistemas de Informação, curioso na cultura de DevOps, estudando atualmente as seguintes tecnologias: Ansible, CI/CD, Docker (Compose, Swarn), Git, Grafana, Jenkins, Kubernetes (K3S), Nexus, Prometheus, SonarQube, TerraForm e Vagrant.</strong>.<br>
 
 🔭 Infrastructure Analyst | Obers
 
