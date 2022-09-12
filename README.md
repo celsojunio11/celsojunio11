@@ -24,6 +24,7 @@
 <code><img height="32" src="https://img.shields.io/badge/-333333?style=flat&logo=grafana" alt="Grafana"/></code>
 <code><img height="32" src="https://img.shields.io/badge/-333333?style=flat&logo=jenkins" alt="Jenkins"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes"/></code>
+<code><img height="32" src="https://img.shields.io/badge/-333333?style=flat&logo=oracle" alt="Banco de Dados Oracle"/></code>
 <code><img height="32" src="https://img.shields.io/badge/-333333?style=flat&logo=terraform" alt="TerraForm"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" alt="Vagrant"/></code>
 
