@@ -1,7 +1,7 @@
 ### Hello Word! 
 ## 👋 Meu nome é <strong>Celso Júnio!</strong>
 
->Olá, me chamo Celso Júnio, tenho 21 anos, sou um entusiasta e apaixonado por tecnologia em geral, cursando o 8° período de Sistemas de Informação no Centro Universitário de Patos de Minas (UNIPAM), curioso na cultura de DevOps. Estudante atualmente das seguintes tecnologias: Ansible, Docker (Compose, Swarn), Git, Grafana, Jenkins (CI/CD), Kubernetes (K3S), Nexus, Prometheus, SonarQube, TerraForm, Vagrant e Zabbix.</strong>.<br>
+>Olá, tenho 22 anos, sou bacharel em Sistemas de Informação pelo UNIPAM. Possuo mais de 2 anos de experiência nas áreas de: Infraestrutura e DevOps. Estudante atualmente das seguintes tecnologias: Ansible, Docker (Compose, Swarn), Git, Grafana, Jenkins (CI/CD), Kubernetes (K3S), Nexus, Prometheus, SonarQube, TerraForm e Vagrant.</strong>.<br>
 
 🔭 Infrastructure Analyst / DevOps Jr | Obers
 
