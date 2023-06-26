@@ -1,7 +1,15 @@
 ### Hello Word! 
 ## 👋 Meu nome é <strong>Celso Júnio!</strong>
 
->Olá, tenho 22 anos, sou bacharel em Sistemas de Informação pelo UNIPAM. Possuo mais de 2 anos de experiência nas áreas de: Infraestrutura e DevOps. Estudante atualmente das seguintes tecnologias: Ansible, Docker (Compose, Swarn), Git, Grafana, Jenkins (CI/CD), Kubernetes (K3S), Nexus, Prometheus, SonarQube, TerraForm e Vagrant.</strong>.<br>
+Olá, tenho 22 anos, sou bacharel em Sistemas de Informação. Sou um profissional de TI com experiências e habilidades em atividades relacionadas à Infraestrutura e DevOps. 
+
+Administração e configuração de servidores, incluindo VMs On-Premise  (Windows Server e Oracle Linux) e Cloud (Azure, AWS, Google Cloud Plataform e Oracle Cloud Infrastructure).
+
+Conhecimento em práticas de DevOps, utilizando Docker, Cloud Provieders, Git, GitHub, GitLab, Grafana, Kong, Linux, Prometheus, Rancher, Subversion Server, Vagrant e Zabbix.
+
+Experiência na administração e configuração do Parallels RAS para diversas instituições, incluindo: TCM SP (Tribunal de Contas de São Paulo), Nacional Grafite (Mineradora), Univates (Universidade do Vale do Taquari), SEFIN (Secretaria de Estado da Fazenda de Rondônia), Dataprev (Empresa de Tecnologia e Informação da Previdência Social) e Paranapanema S.A ( fundição e refino de cobre primário).
+
+Proficiência na administração de bancos de dados Oracle, incluindo versões 11g (RMAN, Data Pump, Archive Log), 12c, XE, MySQL, PostgreSQL e SQL Server. Habilidade em Discovery, Forms6i (path 4 e 18), PL/SQL e Reports6i (path 4 e 18).</strong>.<br>
 
 🔭 Infrastructure Analyst / DevOps Jr | Obers
 
