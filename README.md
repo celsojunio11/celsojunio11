@@ -8,7 +8,7 @@ Olá, tenho 22 anos, sou bacharel em Sistemas de Informação. Sou um profission
 - Experiência na administração e configuração do Parallels RAS para diversas instituições, do ramo privado e governamental.
 -Proficiência na administração de bancos de dados Oracle, incluindo versões 11g (RMAN, Data Pump, Archive Log), 12c, XE, MySQL, PostgreSQL e SQL Server. Habilidade em Discovery, Forms6i (path 4 e 18), PL/SQL e Reports6i (path 4 e 18).</strong>.<br>
 
-🔭 Infrastructure Analyst / DevOps Jr | Obers
+🔭 SysAdmin - DBA Oracle | Obers
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
