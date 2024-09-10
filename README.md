@@ -1,14 +1,9 @@
 ### Hello Word! 
 ## 👋 Meu nome é <strong>Celso Júnio!</strong>
 
-Olá, tenho 22 anos, sou bacharel em Sistemas de Informação. Sou um profissional de TI com experiências e habilidades em atividades relacionadas à Infraestrutura e DevOps. 
+Profissional em Sistemas de Informação pelo UNIPAM, especializando em Redes e Segurança de Dados. Possuo experiência em gestão de bancos de dados, administração de sistemas, administração de redes de computadores e implementação de infraestrutura de TI. Comprometido com desafios e aprendizado contínuo, buscando o aperfeiçoamento em Cloud e Segurança.
 
-- Administração e configuração de servidores, incluindo VMs On-Premise  (Windows Server e Oracle Linux) e Cloud (Azure, AWS, Google Cloud Plataform e Oracle Cloud Infrastructure).
-- Conhecimento em práticas de DevOps, utilizando Docker, GitHub, GitLab, Grafana, Kong, Prometheus, Rancher, Subversion Server, Vagrant e Zabbix.
-- Experiência na administração e configuração do Parallels RAS para diversas instituições, do ramo privado e governamental.
--Proficiência na administração de bancos de dados Oracle, incluindo versões 11g (RMAN, Data Pump, Archive Log), 12c, XE, MySQL, PostgreSQL e SQL Server. Habilidade em Discovery, Forms6i (path 4 e 18), PL/SQL e Reports6i (path 4 e 18).</strong>.<br>
-
-🔭 SysAdmin - DBA Oracle | Obers
+🔭 Analista de Redes e Segurança Pleno | Unipam
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
